@@ -7,8 +7,8 @@
 Here are some ideas to get you started:  -->
 
 <!-- - 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning golang
-<!-- - 👯 I’m looking to collaborate on ... -->
+- 🌱 I am learning and developing with golang
+- 👯 I’m looking to collaborate on open source projects.
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Android, Spring boot and Golang
 <!-- - 📫 How to reach me: ... -->
