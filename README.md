@@ -7,7 +7,7 @@
 Here are some ideas to get you started:  -->
 
 <!-- - 🔭 I’m currently working on ...-->
-- 🌱 I am learning and developing with golang
+- 🌱 I am learning flutter.
 - 👯 I’m looking to collaborate on open source projects.
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Android, Spring boot and Golang
