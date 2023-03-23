@@ -18,5 +18,5 @@ Here are some ideas to get you started:  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brian-big&show_icons=true&bg_color=262B33&text_color=FFFFFF" />
 </a>
 <a href="https://github.com/Brian-big">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-big&show_icons=true&bg_color=262B33&text_color=FFFFFF&layout=compact&hide=less,javascript,css,scss,html,cmake" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-big&show_icons=true&bg_color=262B33&text_color=FFFFFF&layout=compact&hide=less,javascript,css,scss,html,cmake,c++" />
 </a>
