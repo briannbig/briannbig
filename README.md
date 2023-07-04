@@ -14,7 +14,7 @@ Here are some ideas to get you started:  -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-<a href="https://github.com/Brian-big">
+<a href="https://github.com/briannbig">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=briannbig&show_icons=true&bg_color=262B33&text_color=FFFFFF" />
 </a>
 <a href="https://github.com/briannbig">
