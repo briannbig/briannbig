@@ -15,6 +15,12 @@ Here are some ideas to get you started:  -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
+### 🏆 GitHub Profile Trophy:
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=briannbig)](https://github.com/briannbig/github-profile-trophy)
+---
+
 <a href="https://github.com/briannbig">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=briannbig&show_icons=true&bg_color=262B33&text_color=FFFFFF" />
 </a>
