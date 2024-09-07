@@ -23,3 +23,7 @@ Here are some ideas to get you started:  -->
 <a href="https://github.com/briannbig">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briannbig&show_icons=true&layout=compact&text_color=daf7dc&bg_color=0,000000,130F40&hide_border=true&hide=less,javascript,css,scss,html,c%2B%2B,cmake,php" />
 </a>
+<br/>
+<br/>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=briannbig&theme=holi-theme&hide_border=true&border_radius=10.2&background=0%2C000000%2C130F40&hide_total_contributions=true" alt="GitHub Streak" /></a>
